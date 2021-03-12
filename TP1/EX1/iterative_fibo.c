@@ -2,5 +2,5 @@
 
 int iterative_fibo(int n)
 {
-    // write your iterative_fibo code here
+    // write your iterative_fib u vo code here
 }
